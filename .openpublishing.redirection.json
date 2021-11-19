@@ -2,14 +2,9 @@
 {
     "redirections": [
       {
-        "source_path": "Privacy/index.md",
-        "redirect_url": "/privacy/solutions/privacymanagement/privacy-management",
-        "redirect_document_id": true
-      },
-      {
         "source_path": "Privacy/solutions/index.md",
         "redirect_url": "/privacy/solutions/privacymanagement/privacy-management",
-        "redirect_document_id": false
+        "redirect_document_id": true
       },
       {
         "source_path": "Privacy/solutions/privacymanagement/index.md",
