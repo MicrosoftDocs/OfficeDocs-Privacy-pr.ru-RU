@@ -1,0 +1,68 @@
+### YamlMime:Hub
+title: Политика конфиденциальности корпорации Майкрософт
+summary: 'Документация и ресурсы Майкрософт, необходимые для обеспечения конфиденциальности в вашей компании или организации.'
+brand: m365
+metadata:
+  title: Политика конфиденциальности корпорации Майкрософт
+  description: 'Документация и ресурсы Майкрософт, необходимые для обеспечения конфиденциальности в вашей компании или организации.'
+  services: service
+  ms.service: service
+  ms.subservice: subservice
+  ms.topic: hub-page
+  ms.collection:
+    - M365-security-compliance
+  author: robmazz
+  ms.author: robmazz
+  ms.date: 11/15/2021
+  titleSuffix: Microsoft Privacy
+highlightedContent:
+  items:
+    - title: Сведения о защите конфиденциальности клиентов корпорацией Майкрософт
+      itemType: learn
+      url: 'https://privacy.microsoft.com/'
+    - title: Сведения о стандартах конфиденциальности Microsoft 365
+      itemType: learn
+      url: /learn/modules/audit-privacy/
+    - title: 'Сведения о защите данных, нормативах конфиденциальности и обработке данных'
+      itemType: learn
+      url: /learn/modules/intro-to-data-protection-privacy/
+    - title: Начало работы с конфиденциальностью в облачных службах (Майкрософт)
+      itemType: get-started
+      url: 'https://www.microsoft.com/trust-center/privacy'
+productDirectory:
+  title: Microsoft Priva
+  summary: 'Начните работу с Priva, чтобы помочь вашей организации защитить персональные данные в Microsoft 365 и создать устойчивое к рискам конфиденциальности рабочее место.'
+  items:
+    - title: Сведения о Priva
+      imageSrc: /office/media/icons/task-list-planning-blue.svg
+      summary: 'Priva предлагает организациям средства для упреждающего выявления рисков конфиденциальности и защиты от них, а также для управления хранением и перемещением персональных данных.'
+      url: /privacy/priva/priva-overview
+    - title: Начало работы с Priva
+      imageSrc: /office/media/icons/list-123-blue.svg
+      summary: 'Если вы готовы приступить к использованию Microsoft Priva для помощи в выявлении и устранении рисков конфиденциальности, выполните следующие действия, чтобы настроить предварительные условия и приступить к изучению аналитики конфиденциальности.'
+      url: /privacy/priva/priva-setup
+    - title: Управление рисками с помощью управления рисками конфиденциальности
+      imageSrc: /office/media/icons/tasks-blue.svg
+      summary: 'Priva позволяет настроить политики, которые выявляют риски конфиденциальности в среде Microsoft 365 и дают возможность легко устранять их.'
+      url: /privacy/priva/risk-management-policies
+    - title: Управление запросами прав субъекта
+      imageSrc: /office/media/icons/process-flow-blue.svg
+      summary: 'Запросы прав субъектов Priva помогают обрабатывать запросы персональных данных, обеспечивая рабочий процесс, автоматизацию и совместную работу.'
+      url: /privacy/priva/subject-rights-requests
+additionalContent:
+  sections:
+    - title: Подробнее о конфиденциальности в службах Майкрософт
+      summary: 'Если вы не знакомы с конфиденциальностью и хотите узнать, с чего начать в службах Майкрософт, в этом разделе представлены ссылки на ключевые области конфиденциальности для каждой службы.'
+      items:
+        - title: Microsoft Azure
+          summary: 'Узнайте, как защищается конфиденциальность данных, которые вы храните и обрабатываете в службах Azure, и о том, что они используются только в соответствии с вашими ожиданиями.'
+          url: 'https://azure.microsoft.com/overview/trusted-cloud/privacy/'
+        - title: Dynamics 365
+          summary: 'Microsoft Dynamics 365 стремится помочь клиентам в соблюдении требований конфиденциальности, персональных данных и Общего регламента по защите данных (GDPR).'
+          url: /dynamics365/get-started/gdpr/
+        - title: Приложения Microsoft 365 для предприятий
+          summary: Корпорация Майкрософт предоставляет нужные сведения и элементы управления для выбора способа сбора и использования данных при работе с Приложениями Microsoft 365 для предприятий.
+          url: /deployoffice/privacy/overview-privacy-controls
+        - title: Microsoft Windows
+          summary: 'Узнайте, как соответствовать Общему регламенту по защите данных (GDPR) путем просмотра и настройки диагностических данных Windows в организации.'
+          url: /windows/privacy/
