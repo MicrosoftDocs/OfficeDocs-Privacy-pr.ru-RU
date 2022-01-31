@@ -2,14 +2,114 @@
 {
     "redirections": [
       {
-        "source_path": "Privacy/solutions/index.md",
-        "redirect_url": "/privacy/solutions/privacymanagement/privacy-management",
-        "redirect_document_id": true
+        "source_path": "Privacy/priva/index.md",
+        "redirect_url": "/privacy/priva/priva-overview",
+        "redirect_document_id": false
       },
       {
         "source_path": "Privacy/solutions/privacymanagement/index.md",
         "redirect_url": "/privacy/solutions/privacymanagement/privacy-management",
         "redirect_document_id": false
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management.md",
+        "redirect_url": "/privacy/priva/priva-overview",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-trial.md",
+        "redirect_url": "/privacy/priva/priva-trial",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-trial-terms.md",
+        "redirect_url": "/microsoft-365/compliance/terms-conditions",
+        "redirect_document_id": false
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-trial-playbook.md",
+        "redirect_url": "/privacy/priva/priva-trial-playbook",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-setup.md",
+        "redirect_url": "/privacy/priva/priva-setup",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-permissions.md",
+        "redirect_url": "/privacy/priva/priva-permissions",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-settings.md",
+        "redirect_url": "/privacy/priva/priva-settings",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-data-profile.md",
+        "redirect_url": "/privacy/priva/priva-data-profile",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-disclaimer.md",
+        "redirect_url": "/privacy/priva/priva-disclaimer",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-policies.md",
+        "redirect_url": "/privacy/priva/risk-management",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-policies-create.md",
+        "redirect_url": "/privacy/priva/risk-management-policies",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-policies-manage.md",
+        "redirect_url": "/privacy/priva/risk-management-policies-manage",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-policies-issues.md",
+        "redirect_url": "/privacy/priva/risk-management-alerts",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-policies-notifications.md",
+        "redirect_url": "/privacy/priva/risk-management-notifications",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests.md",
+        "redirect_url": "/privacy/priva/subject-rights-requests",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests-create.md",
+        "redirect_url": "/privacy/priva/subject-rights-requests-create",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests-data-matching.md",
+        "redirect_url": "/privacy/priva/subject-rights-requests-data-match",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests-review.md",
+        "redirect_url": "/privacy/priva/subject-rights-requests-data-review",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests-fulfil.md",
+        "redirect_url": "/privacy/priva/subject-rights-requests-reports",
+        "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests-automate-tasks.md",
+        "redirect_url": "/privacy/priva/subject-rights-requests-automate",
+        "redirect_document_id": true
       }
     ]
   }
