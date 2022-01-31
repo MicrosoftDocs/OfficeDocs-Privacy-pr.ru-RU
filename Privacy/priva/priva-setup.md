@@ -17,16 +17,16 @@ search.appverid:
 - MOE150
 - MET150fcf
 description: Узнайте, как настроить Microsoft Priva для организации, установить роли и разрешения и настроить важные параметры.
-ms.openlocfilehash: 62e28361b57dd866b95ce566616473ed1a71e4ad
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+ms.openlocfilehash: 8df9367bd88fe9a8feecdbb00110345aae7a3d79
+ms.sourcegitcommit: a76dec53605c963d9bc134a26b7e09f600d6e940
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249103"
+ms.lasthandoff: 01/31/2022
+ms.locfileid: "62280251"
 ---
 # <a name="get-started-with-priva"></a>Начало работы с Priva
 
-Если вы готовы приступить к использованию Microsoft Priva для оказания помощи в выявлении и смягчении рисков конфиденциальности, выполните следующие действия, чтобы настроить необходимые условия и приступить к изучению информации о конфиденциальности.
+Если вы готовы приступить к использованию Microsoft Priva для помощи в выявлении и устранении рисков конфиденциальности, выполните следующие действия, чтобы настроить предварительные условия и приступить к изучению аналитики конфиденциальности.
 
 ## <a name="step-1-confirm-subscriptions-and-licensing"></a>Шаг 1. Подтверждение подписок и лицензирования
 
@@ -37,7 +37,7 @@ Priva доступна в Центр соответствия требовани
 
 Priva предлагает варианты лицензирования для двух различных решений: управление рисками конфиденциальности Привы и Запросы на права субъекта Привы. Их можно приобрести по отдельности или вместе. При получении лицензий на запросы на предметные права можно выбрать соответствующий уровень лицензирования для обработки многих запросов. Дополнительные запросы можно приобрести в любое время.
 
-Подробные инструкции по лицензированию см. в статье [Руководство по лицензированию Microsoft 365 для обеспечения безопасности и соответствия требованиям](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#privacy-management).
+Подробные инструкции по лицензированию см. в статье [Руководство по лицензированию Microsoft 365 для обеспечения безопасности и соответствия требованиям](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance#microsoft-priva).
 
 > [!Note]
 > Priva недоступна для клиентов Community (GCC) умеренных, GCC или Министерства обороны США.
