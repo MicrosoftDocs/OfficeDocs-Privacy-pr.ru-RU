@@ -1,0 +1,38 @@
+- name: Сведения о Microsoft Priva
+  href: priva-overview.md
+- name: Сведения о бесплатной пробной версии Priva
+  href: priva-trial.md
+- name: Начало работы с Priva
+  href: priva-setup.md
+- name: Настройка разрешений и ролей в Priva
+  href: priva-permissions.md
+- name: Настройка параметров Priva
+  href: priva-settings.md
+- name: Поиск и визуализация персональных данных в Priva
+  href: priva-data-profile.md
+- name: Управление рисками конфиденциальности
+  items:
+    - name: Сведения об управлении рисками конфиденциальности
+      href: risk-management.md
+    - name: Создание политик
+      href: risk-management-policies.md
+    - name: Управление политиками
+      href: risk-management-policies-manage.md
+    - name: Исследование и устранение оповещений
+      href: risk-management-alerts.md
+    - name: Отправка уведомлений пользователям
+      href: risk-management-notifications.md
+- name: Запросы прав субъекта
+  items:
+    - name: Сведения о запросах прав субъекта
+      href: subject-rights-requests.md
+    - name: Создание запросов
+      href: subject-rights-requests-create.md
+    - name: Настройка соответствия данных
+      href: subject-rights-requests-data-match.md
+    - name: Просмотр данных и взаимодействие
+      href: subject-rights-requests-data-review.md
+    - name: Получение отчетов и выполнение запросов
+      href: subject-rights-requests-reports.md
+    - name: Автоматизация задач
+      href: subject-rights-requests-automate.md
