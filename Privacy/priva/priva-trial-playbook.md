@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Узнайте о пробной проверке Microsoft Priva, см. рекомендуемые действия, которые необходимо принять в течение пробного периода, и просмотрите ссылки на важную документацию.
-ms.openlocfilehash: f75702c2f0dcc997f8d0e8bdb6ab154cc4bca5fc
-ms.sourcegitcommit: f145dff5e387a8e26db2f3a2c7de125978fbacc9
+ms.openlocfilehash: 3004a39da2627e7a0f8da1e27bd0456d3b06881d
+ms.sourcegitcommit: beeb693075ef692e95d679f366301df8517b2ac3
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 01/28/2022
-ms.locfileid: "62249111"
+ms.lasthandoff: 03/23/2022
+ms.locfileid: "63765512"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>Пробный сборник схем: Microsoft Priva
 
@@ -47,7 +47,7 @@ ms.locfileid: "62249111"
 - Уполномойте сотрудников информационных служб принимать разумные решения по обработке этих данных
 - Позволяет пользователям эффективно управлять данными и принимать меры по соблюдению меняющихся правил конфиденциальности.
 
-### <a name="subject-rights-requests"></a>Запросы на права субъекта
+### <a name="subject-rights-requests"></a>Запросы прав субъекта
 
 С помощью **решения "Запросы на права** субъекта" можно узнать, как обрабатывать запросы от первоначального запроса до подготовки отчетов.
 
@@ -69,7 +69,7 @@ ms.locfileid: "62249111"
 
 Priva помогает вам понять данные, которые хранит организация, путем автоматизации обнаружения активов персональных данных и визуализации необходимой информации.
 
-Чтобы начать, перейдите в раздел Priva Центр соответствия требованиям Microsoft 365 просмотреть эти страницы:[](https://compliance.microsoft.com/)
+Для начала перейдите в раздел Priva Центр соответствия требованиям Microsoft 365 и просмотреть эти страницы:[](https://compliance.microsoft.com/)
 
 1. [Обзор](priva-data-profile.md#explore-the-overview-page). Предоставляет сводное представление о вашей позиции конфиденциальности, включая объем, категорию, расположение и перемещение персональных данных в Microsoft 365 среде. Кроме того, вы получаете сведения о текущем состоянии и тенденциях связанных рисков конфиденциальности, связанных с перешагонами, переносами или неиспользования персональными данными.
 1. [Профиль данных](priva-data-profile.md#explore-the-data-profile-page). Предоставляет снимок персональных данных, хранимых организацией в Microsoft 365, включая объем, тип и расположение (хранение и география).
@@ -122,7 +122,7 @@ Priva помогает вам понять данные, которые хран
 1. [Устранение проблем из уведомлений электронной почты](risk-management-notifications.md#remediate-issues-from-email-notifications)
 1. [Отправка уведомлений в Teams](risk-management-notifications.md#send-notifications-in-teams)
 
-## <a name="learn-about-subject-rights-requests"></a>Узнайте о запросах на права субъекта
+## <a name="learn-about-subject-rights-requests"></a>Сведения о запросах прав субъекта
 
 В соответствии с определенными правилами конфиденциальности по всему миру, отдельные лица (или субъекты данных) могут делать запросы на просмотр или управление персональными данными о себе, которые компании собрали. Эти запросы иногда также называются запросами субъектов данных (DSRs), запросами доступа к субъектам данных (DSA) или запросами прав потребителей. Запросы на права субъекта Priva могут помочь вам обрабатывать эти запросы.
 
@@ -163,13 +163,13 @@ Priva помогает вам понять данные, которые хран
 
 После завершения проверки данных для запроса на права субъекта можно перейти к выполнению запроса.
 
-1. [Подготовка окончательных отчетов для субъекта данных](subject-rights-requests-reports.md#prepare-final-reports-for-the-data-subject)
+1. [Подготовка окончательных отчетов для субъекта данных](subject-rights-requests-reports.md)
 1. [Интеграция с решениями партнеров](subject-rights-requests-reports.md#integrate-with-partner-solutions)
-1. [Управление хранением данных](subject-rights-requests-reports.md#manage-data-retention)
+1. [Управление хранением данных](subject-rights-requests-reports.md#retention-periods-for-reports-and-data)
 
 ## <a name="automate-subject-rights-requests-tasks"></a>Автоматизация задач запросов прав субъекта
 
-Включение Power Automate потоков для Priva для автоматизации важных задач для дел и пользователей, таких как создание билетов в ServiceNow или добавление напоминаний календаря о сроках выполнения.
+Включение Power Automate потоков для "Привы" для автоматизации важных задач для дел и пользователей, таких как создание билетов в ServiceNow или добавление напоминаний календаря о сроках выполнения.
 
 1. [Создание нового потока Power Automate из шаблона](subject-rights-requests-automate.md#create-a-new-power-automate-flow-from-a-template)
 1. [Совместное Power Automate потока](subject-rights-requests-automate.md#share-a-power-automate-flow)
