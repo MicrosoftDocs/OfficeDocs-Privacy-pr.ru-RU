@@ -110,6 +110,11 @@
         "source_path": "privacy/solutions/privacymanagement/privacy-management-subject-rights-requests-automate-tasks.md",
         "redirect_url": "/privacy/priva/subject-rights-requests-automate",
         "redirect_document_id": true
+      },
+      {
+        "source_path": "privacy/priva/risk-management-policies-manage.md",
+        "redirect_url": "/privacy/priva/risk-management-policies",
+        "redirect_document_id": false
       }
     ]
   }
