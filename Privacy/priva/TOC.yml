@@ -14,10 +14,14 @@
   items:
     - name: Сведения об управлении рисками конфиденциальности
       href: risk-management.md
-    - name: Создание политик
+    - name: Сведения о создании политик и управления ими
       href: risk-management-policies.md
-    - name: Управление политиками
-      href: risk-management-policies-manage.md
+    - name: Создание политики предотвращения раскрытия данных
+      href: risk-management-policy-data-overexposure.md
+    - name: Создание политики передачи данных
+      href: risk-management-policy-data-transfer.md
+    - name: Создание политики минимизации данных
+      href: risk-management-policy-data-minimization.md
     - name: Исследование и устранение оповещений
       href: risk-management-alerts.md
     - name: Отправка уведомлений пользователям
