@@ -1,5 +1,5 @@
 ---
-title: Отправка уведомлений пользователей в службе "Управление рисками конфиденциальности"
+title: Уведомления пользователей в управлении рисками конфиденциальности
 f1.keywords:
 - CSH
 ms.author: chvukosw
@@ -15,13 +15,13 @@ ms.collection:
 search.appverid:
 - MOE150
 - MET150
-description: Узнайте, как уведомлять владельцев содержимого о совпадениях политик, обнаруженных службой Microsoft Priva Privacy Risk Management, и как они могут использовать эти уведомления по электронной почте для устранения проблем.
-ms.openlocfilehash: 8969e1cd4d5859102b18bd46723d1be6e85d35f6
-ms.sourcegitcommit: b5f7dcb73c0e3f677981e80106769cb546d00af4
+description: Узнайте, как уведомлять владельцев содержимого о совпадениях политик, обнаруженных Управление рисками информационной безопасности Microsoft Priva, и как они могут использовать эти уведомления по электронной почте для устранения проблем.
+ms.openlocfilehash: ae02d3bca9c63f8645cd9671628de61d83cb6117
+ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 04/21/2022
-ms.locfileid: "65014379"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65851654"
 ---
 # <a name="user-notifications-in-privacy-risk-management"></a>Уведомления пользователей в управлении рисками конфиденциальности
 
@@ -77,4 +77,4 @@ ms.locfileid: "65014379"
 
 ## <a name="legal-disclaimer"></a>Юридический отказ от ответственности
 
-[Заявление об отказе от ответственности по юридическим требованиям Microsoft Priva](priva-disclaimer.md)
+[Microsoft Priva заявление об отказе от ответственности](priva-disclaimer.md)

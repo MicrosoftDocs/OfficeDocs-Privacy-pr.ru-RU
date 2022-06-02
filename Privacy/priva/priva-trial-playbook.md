@@ -17,12 +17,12 @@ search.appverid:
 - MOE150
 - MET150
 description: Сведения о Microsoft Priva, рекомендуемые действия в течение пробного периода и ссылки на важную документацию.
-ms.openlocfilehash: 5dfffcd90f019b71e74be007ed35dc21fb95aa99
-ms.sourcegitcommit: 3c27ecf7c86c8a3db38cae8819fc090eed192b4f
+ms.openlocfilehash: 9b1e3761e4b9166e3f89d906926981b8a0afbfdb
+ms.sourcegitcommit: 9315064bf5bb9e889318e61ec5f082f36c815e1e
 ms.translationtype: MT
 ms.contentlocale: ru-RU
-ms.lasthandoff: 05/25/2022
-ms.locfileid: "65678206"
+ms.lasthandoff: 06/02/2022
+ms.locfileid: "65851694"
 ---
 # <a name="trial-playbook-microsoft-priva"></a>Пробный сборник схем: Microsoft Priva
 
@@ -164,10 +164,10 @@ Priva помогает понять данные, которые хранятс�
 После завершения проверки данных для запроса прав субъекта можно перейти к запросу на выполнение.
 
 1. [Подготовка окончательных отчетов для субъекта данных](subject-rights-requests-reports.md)
-1. [Интеграция с партнерскими решениями](subject-rights-requests-reports.md#integrate-with-partner-solutions)
+1. [Интеграция и расширение с помощью Microsoft API Graph и Power Automate](subject-rights-requests-automate.md)
 1. [Управление хранением данных](subject-rights-requests-reports.md#retention-periods-for-reports-and-data)
 
-## <a name="automate-subject-rights-requests-tasks"></a>Автоматизация задач запросов прав субъекта
+## <a name="extend-with-power-automate"></a>Расширение с помощью Power Automate
 
 Включите Power Automate для Priva для автоматизации важных задач для вариантов и пользователей, таких как создание билетов в ServiceNow или добавление напоминаний календаря о датах выполнения.
 
