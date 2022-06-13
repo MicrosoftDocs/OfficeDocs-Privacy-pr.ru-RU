@@ -30,11 +30,15 @@
   items:
     - name: Сведения о запросах прав субъекта
       href: subject-rights-requests.md
-    - name: Создание запросов
+    - name: Распознавание рабочего процесса и страницы сведений о запросах
+      href: subject-rights-requests-workflow.md
+    - name: Создавайте запросы и определяйте свой поиск
       href: subject-rights-requests-create.md
+    - name: Оценка данных и поиск
+      href: subject-rights-requests-data-retrieval.md
     - name: Просмотр данных и взаимодействие
       href: subject-rights-requests-data-review.md
-    - name: Создание отчетов для выполнения запросов
+    - name: Получайте отчеты и закрывайте запросы
       href: subject-rights-requests-reports.md
     - name: Интеграция с API Microsoft Graph и Power Automate
       href: subject-rights-requests-automate.md
